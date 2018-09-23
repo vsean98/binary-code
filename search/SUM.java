@@ -1,3 +1,6 @@
+Binary search  Code 
+
+
 package search;
 
 public class SUM {
