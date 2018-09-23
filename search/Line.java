@@ -1,3 +1,7 @@
+
+linear search 
+
+
 package search;
 
 public class Line {
