@@ -1,4 +1,6 @@
-# binary-code
+
+binary search
+
 package search;
 
 public class SUM {
